@@ -46,6 +46,8 @@ class BatteryInfoBroadcast {
     private long mLastFullChargeHour = -1;
     private final Handler mHandler = new Handler();
 
+    private static final boolean DEBUG = false;
+
     BatteryInfoBroadcast(Context context, BroadcastSender broadcastSender) {
         mContext = context;
         mPowerManager = context.getSystemService(PowerManager.class);
@@ -110,7 +112,7 @@ class BatteryInfoBroadcast {
             boolean isPowerSaveMode = mPowerManager.isPowerSaveMode();
             createIntent.putExtra("battery_save", isPowerSaveMode);
             sendBroadcast(createIntent);
-            Log.d("BatteryInfoBroadcast", "onReceive: " + action + " isPowerSaveMode: " + isPowerSaveMode);
+            if (DEBUG) Log.d("BatteryInfoBroadcast", "onReceive: " + action + " isPowerSaveMode: " + isPowerSaveMode);
         } else if (action.equals("android.bluetooth.adapter.action.STATE_CHANGED") 
             || action.equals("android.bluetooth.hearingaid.profile.action.CONNECTION_STATE_CHANGED") 
             || action.equals("android.bluetooth.headset.profile.action.CONNECTION_STATE_CHANGED") 
