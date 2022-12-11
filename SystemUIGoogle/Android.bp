@@ -33,6 +33,10 @@ android_library {
     ],
     manifest: "AndroidManifest.xml",
 
+    libs: [
+        "ims-common",
+    ],
+
     javacflags: ["-Adagger.fastInit=enabled"],
     kotlincflags: ["-Xjvm-default=enable"],
 
@@ -61,6 +65,10 @@ android_app {
     system_ext_specific: true,
     certificate: "platform",
     privileged: true,
+
+    libs: [
+        "ims-common",
+    ],
 
     optimize: {
         proguard_flags_files: ["proguard.flags"],
