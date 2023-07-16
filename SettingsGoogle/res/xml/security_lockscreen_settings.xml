@@ -14,7 +14,7 @@
             android:title="@string/lock_screen_notifications_title"
             settings:keywords="@string/keywords_lock_screen_notif" />
 
-        <com.android.settings.custom.preference.SecureSettingListPreference
+        <org.derpfest.support.preferences.SecureSettingListPreference
             android:key="face_unlock_method"
             android:title="@string/face_unlock_method_title"
             android:summary="%s"
@@ -42,16 +42,17 @@
             android:summary="@string/owner_info_settings_summary"
             android:title="@string/owner_info_settings_title" />
 
-        <com.android.settings.custom.preference.SecureSettingSwitchPreference
-            android:key="lockscreen_media_metadata"
-            android:title="@string/lockscreen_media_art_title"
-            android:defaultValue="false" />
-
         <SwitchPreference
             android:key="lockscreen_privacy_wallet_switch"
             android:summary="@string/lockscreen_privacy_wallet_summary"
             android:title="@string/lockscreen_privacy_wallet_setting_toggle"
             settings:controller="com.android.settings.display.WalletPrivacyPreferenceController" />
+
+        <SwitchPreference
+            android:key="lock_screen_show_qr_scanner"
+            android:title="@string/lockscreen_privacy_qr_code_scanner_setting_toggle"
+            android:summary="@string/lockscreen_privacy_qr_code_scanner_summary"
+            settings:controller="com.android.settings.display.QRCodeScannerPreferenceController" />
 
         <SwitchPreference
             android:key="lockscreen_privacy_controls_switch"
@@ -79,59 +80,91 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="ambient_light"
+        android:title="@string/ambient_light_category" >
+
+        <com.android.settings.preference.SystemSettingPrimarySwitchPreference
+            android:key="pulse_ambient_light"
+            android:title="@string/pulse_ambient_light_title"
+            android:summary="@string/pulse_ambient_light_summary"
+            android:fragment="com.android.settings.display.EdgeLightningSettings"
+            android:defaultValue="false"
+            settings:controller="com.android.settings.display.EdgeLightningPreferenceController" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="ambient_display_category_when_to_show"
-        android:order="1000"
         android:title="@string/ambient_display_category_triggers"
-        settings:controller="com.android.settings.display.AmbientDisplayWhenToShowPreferenceController">
+        settings:controller="com.android.settings.display.AmbientDisplayWhenToShowPreferenceController"
+        android:order="1000">
 
         <com.android.settingslib.RestrictedSwitchPreference
             android:key="ambient_display_always_on"
-            android:summary="@string/doze_always_on_summary"
             android:title="@string/doze_always_on_title"
+            android:summary="@string/doze_always_on_summary"
+            settings:keywords="@string/keywords_always_show_time_info"
             settings:controller="com.android.settings.display.AmbientDisplayAlwaysOnPreferenceController"
             settings:userRestriction="no_ambient_display" />
 
-        <Preference
-            android:fragment="com.android.settings.gestures.TapScreenGestureSettings"
-            android:key="ambient_display_tap"
-            android:title="@string/ambient_display_tap_screen_title"
-            settings:controller="com.android.settings.gestures.TapScreenGesturePreferenceController"
-            settings:searchable="false" />
-
-        <Preference
-            android:fragment="com.android.settings.gestures.DoubleTapScreenSettings"
-            android:key="ambient_display_double_tap"
-            android:title="@string/ambient_display_title"
-            settings:controller="com.android.settings.gestures.DoubleTapScreenPreferenceController"
-            settings:searchable="false" />
-
-        <Preference
-            android:fragment="com.android.settings.gestures.PickupGestureSettings"
-            android:key="ambient_display_pick_up"
-            android:title="@string/ambient_display_pickup_title"
-            settings:controller="com.android.settings.gestures.PickupGesturePreferenceController"
-            settings:searchable="false" />
-
-        <Preference
-            android:key="gesture_screen_off_udfps_input_summary"
-            android:title="@string/ambient_display_screen_off_udfps_title"
-            android:fragment="com.android.settings.gestures.ScreenOffUdfpsSettings"
-            settings:searchable="false"
-            settings:controller="com.android.settings.gestures.ScreenOffUdfpsPreferenceController" />
-
-        <SwitchPreference
-            android:key="ambient_display_notification"
-            android:summary="@string/doze_summary"
-            android:title="@string/doze_title"
-            settings:controller="com.android.settings.display.AmbientDisplayNotificationsPreferenceController" />
-
-        <com.android.settings.custom.preference.RemotePreference
+        <org.derpfest.support.preferences.RemotePreference
             android:key="doze_device_settings"
             android:title="@string/ambient_display_screen_title"
-            settings:requiresAction="org.lineageos.settings.device.DOZE_SETTINGS"
             settings:replacesKey="ambient_display_always_on|ambient_display_notification">
             <intent android:action="org.lineageos.settings.device.DOZE_SETTINGS" />
-        </com.android.settings.custom.preference.RemotePreference>
+        </org.derpfest.support.preferences.RemotePreference>
+
+        <Preference
+            android:key="always_on_display_schedule"
+            android:title="@string/always_on_display_schedule_title"
+            android:fragment="com.android.settings.display.AODSchedule"
+            settings:controller="com.android.settings.display.AODSchedulePreferenceController" />
+
+        <org.derpfest.support.preferences.SecureSettingSwitchPreference
+            android:key="doze_on_charge"
+            android:defaultValue="false"
+            android:title="@string/doze_on_charge_title"
+            android:summary="@string/doze_on_charge_summary" />
+
+        <SwitchPreference
+            android:key="pulse_on_new_tracks"
+            android:title="@string/pulse_on_new_tracks_title"
+            android:summary="@string/pulse_on_new_tracks_summary"
+            settings:controller="com.android.settings.display.PulseOnNewTracksPreferenceController" />
+
+        <Preference
+            android:key="ambient_display_tap"
+            android:title="@string/ambient_display_tap_screen_title"
+            android:fragment="com.android.settings.gestures.TapScreenGestureSettings"
+            settings:searchable="false"
+            settings:controller="com.android.settings.gestures.TapScreenGesturePreferenceController" />
+
+        <Preference
+            android:key="ambient_display_double_tap"
+            android:title="@string/ambient_display_title"
+            android:fragment="com.android.settings.gestures.DoubleTapScreenSettings"
+            settings:searchable="false"
+            settings:controller="com.android.settings.gestures.DoubleTapScreenPreferenceController" />
+
+        <Preference
+            android:key="ambient_display_pick_up"
+            android:title="@string/ambient_display_pickup_title"
+            android:fragment="com.android.settings.gestures.PickupGestureSettings"
+            settings:searchable="false"
+            settings:controller="com.android.settings.gestures.PickupGesturePreferenceController" />
+
+        <!-- Actually controls doze enablement -->
+        <SwitchPreference
+            android:key="ambient_display_notification"
+            android:title="@string/doze_enabled_title"
+            android:summary="@string/doze_enabled_summary"
+            settings:controller="com.android.settings.display.AmbientDisplayNotificationsPreferenceController" />
+
+        <!-- Controls wake for notifications -->
+        <org.derpfest.support.preferences.SecureSettingSwitchPreference
+            android:key="doze_for_notifications"
+            android:title="@string/doze_title"
+            android:summary="@string/doze_summary"
+            android:defaultValue="true" />
 
     </PreferenceCategory>
 
