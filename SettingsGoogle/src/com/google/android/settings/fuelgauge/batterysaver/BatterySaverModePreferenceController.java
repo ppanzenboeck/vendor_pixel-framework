@@ -14,7 +14,6 @@ import android.view.View;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceScreen;
 import com.android.internal.annotations.VisibleForTesting;
-import com.android.internal.util.crdroid.Utils;
 import com.android.settings.core.BasePreferenceController;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnPause;
@@ -38,8 +37,7 @@ public class BatterySaverModePreferenceController extends BasePreferenceControll
 
     @Override 
     public int getAvailabilityStatus() {
-        boolean available = Utils.isPackageInstalled(mContext, "com.google.android.flipendo", false);
-        return available ? AVAILABLE : UNSUPPORTED_ON_DEVICE;
+        return 0;
     }
 
     @Override 
