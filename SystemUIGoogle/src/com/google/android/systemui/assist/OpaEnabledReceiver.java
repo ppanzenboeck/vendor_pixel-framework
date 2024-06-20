@@ -40,11 +40,11 @@ import javax.inject.Inject;
 
 @SysUISingleton
 public class OpaEnabledReceiver {
-    private final Executor mBgExecutor;
+    private final @Background Executor mBgExecutor;
     private final ContentObserver mContentObserver;
     private final ContentResolver mContentResolver;
     private final Context mContext;
-    private final Executor mFgExecutor;
+    private final @Main Executor mFgExecutor;
     private final OpaEnabledSettings mOpaEnabledSettings;
     private final List<OpaEnabledListener> mListeners = new ArrayList();
     private boolean mIsAGSAAssistant;
