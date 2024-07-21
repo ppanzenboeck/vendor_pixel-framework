@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">အက်ပ် ဖွင့်ရန်</string>
     <string name="columbus_setting_action_overview_title">မကြာသေးမီကအက်ပ်များကို ကြည့်ရန်</string>
     <string name="columbus_setting_action_play_pause_title">မီဒီယာဖွင့်ရန် (သို့) ခဏရပ်ရန်</string>
-    <string name="columbus_setting_action_screenshot_title">ဖန်သားပြင်ဓာတ်ပုံ ရိုက်ရန်</string>
     <string name="columbus_setting_actions_title">ဖုန်း၏နောက်ဘက်ကို နှစ်ကြိမ်တို့ခြင်းဖြင့်</string>
     <string name="columbus_setting_additional_settings_title">‘အမြန်တို့’ ၏ တို့အား</string>
     <string name="columbus_setting_app_selection_help_text">သင့်ဖုန်း၏နောက်ဘက်ကို နှစ်ချက်တို့လျှင် ဖွင့်မည့်အက်ပ်ကို ရွေးပါ။ အက်ပ်ကို ဖယ်ရှားလိုက်ပါက သင် အခြားအက်ပ်ကို မရွေးမချင်း ‘အမြန်တို့’ ကို ပိတ်ထားသည်။</string>

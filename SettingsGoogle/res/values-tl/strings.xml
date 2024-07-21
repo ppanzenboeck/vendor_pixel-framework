@@ -147,7 +147,6 @@ Gumagana ang Malinaw na Tawag sa Pagtawag gamit ang Wi-Fi at karamihan ng mga ne
     <string name="columbus_setting_action_open_app_title">Buksan ang app</string>
     <string name="columbus_setting_action_overview_title">Tingnan ang mga kamakailang app</string>
     <string name="columbus_setting_action_play_pause_title">Mag-play o mag-pause ng media</string>
-    <string name="columbus_setting_action_screenshot_title">Kumuha ng screenshot</string>
     <string name="columbus_setting_actions_title">I-tap nang dalawang beses ang likod ng telepono para</string>
     <string name="columbus_setting_additional_settings_title">Lakas ng Quick Tap</string>
     <string name="columbus_setting_app_selection_help_text">Pumili ng app na bubuksan kapag na-tap mo nang dalawang beses ang likod ng iyong telepono. Kung ia-uninstall mo ang app, mao-off ang Quick Tap hanggang pumili ka ng ibang app.</string>

@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">打开应用</string>
     <string name="columbus_setting_action_overview_title">查看最近用过的应用</string>
     <string name="columbus_setting_action_play_pause_title">播放或暂停媒体</string>
-    <string name="columbus_setting_action_screenshot_title">截取屏幕截图</string>
     <string name="columbus_setting_actions_title">点按手机背面两次可启动的操作</string>
     <string name="columbus_setting_additional_settings_title">“快速轻触”的力道强度</string>
     <string name="columbus_setting_app_selection_help_text">选择点按手机背面两次可打开的应用。如果您卸载了该应用，“快速轻触”将会停用，直到您选择了其他应用为止。</string>

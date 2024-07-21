@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">መተግበሪያ ክፈት</string>
     <string name="columbus_setting_action_overview_title">የቅርብ ጊዜ መተግበሪያዎችን ይመልከቱ</string>
     <string name="columbus_setting_action_play_pause_title">ሚዲያን ያጫውቱ ወይም ባለበት ያቁሙ</string>
-    <string name="columbus_setting_action_screenshot_title">ቅጽበታዊ ገፅ ዕይታን ያንሱ</string>
     <string name="columbus_setting_actions_title">የሚከተለውን ለማድረግ የስልክ ጀርባን ሁለቴ መታ ያድርጉ፦</string>
     <string name="columbus_setting_additional_settings_title">የፈጣን መታ ማድረግ ጥንካሬ</string>
     <string name="columbus_setting_app_selection_help_text">የስልክዎን ጀርባ ሁለት ጊዜ መታ ሲያደርጉት የሚከፈተውን መተግበሪያ ይምረጡ። መተግበሪያውን ካራገፉት ሌላ መተግበሪያ እስከሚመርጡ ድረስ ፈጣን መታ ማድረግ ይጠፋል።</string>

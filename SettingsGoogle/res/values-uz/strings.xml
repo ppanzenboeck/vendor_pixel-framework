@@ -147,7 +147,6 @@ Tiniq ovoz Wi‑Fi va aksariyat tarmoqlarda ishlaydi, 3G tarmoqlarida ishlamaydi
     <string name="columbus_setting_action_open_app_title">Ilovani ochish</string>
     <string name="columbus_setting_action_overview_title">Yaqinda ishlatilgan ilovalarni chiqarish</string>
     <string name="columbus_setting_action_play_pause_title">Media ijrosi yoki pauza</string>
-    <string name="columbus_setting_action_screenshot_title">Skrinshot olish</string>
     <string name="columbus_setting_actions_title">Telefonning orqa tomoniga teginilganda qaysi amal bajarilsin</string>
     <string name="columbus_setting_additional_settings_title">Tezkor teginish kuchi</string>
     <string name="columbus_setting_app_selection_help_text">Telefonning orqa tomoniga tezkor ikki marta teginganda ochish uchun ilovani tanlang. Agar ilova oʻchirib tashlansa, Tezkor teginish to boshqa ilova tanlanmaguncha faolsizlantiriladi.</string>

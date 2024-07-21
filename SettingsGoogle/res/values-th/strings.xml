@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">เปิดแอป</string>
     <string name="columbus_setting_action_overview_title">ดูแอปล่าสุด</string>
     <string name="columbus_setting_action_play_pause_title">เล่นหรือหยุดสื่อชั่วคราว</string>
-    <string name="columbus_setting_action_screenshot_title">จับภาพหน้าจอ</string>
     <string name="columbus_setting_actions_title">แตะสองครั้งที่ด้านหลังของโทรศัพท์เพื่อ</string>
     <string name="columbus_setting_additional_settings_title">ความแรงของการแตะด่วน</string>
     <string name="columbus_setting_app_selection_help_text">เลือกแอปที่จะเปิดเมื่อแตะด้านหลังของโทรศัพท์ 2 ครั้ง หากคุณถอนการติดตั้งแอปดังกล่าว การแตะด่วนจะปิดไว้จนกว่าจะมีการเลือกแอปอื่น</string>

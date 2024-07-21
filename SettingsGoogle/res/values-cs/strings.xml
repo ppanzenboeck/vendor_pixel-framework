@@ -147,7 +147,6 @@ Funkce Čistý zvuk volání funguje při volání přes Wi-Fi a ve většině 
     <string name="columbus_setting_action_open_app_title">Otevřít aplikaci</string>
     <string name="columbus_setting_action_overview_title">Zobrazit nedávné aplikace</string>
     <string name="columbus_setting_action_play_pause_title">Přehrát nebo pozastavit média</string>
-    <string name="columbus_setting_action_screenshot_title">Pořídit snímek obrazovky</string>
     <string name="columbus_setting_actions_title">Dvojitým klepnutím na zadní stranu telefonu</string>
     <string name="columbus_setting_additional_settings_title">Síla rychlého poklepání</string>
     <string name="columbus_setting_app_selection_help_text">Vyberte aplikaci, která se otevře, když dvakrát klepnete na zadní stranu telefonu. Pokud ji odinstalujete, rychlé poklepání se vypne, dokud nevyberete jinou aplikaci.</string>

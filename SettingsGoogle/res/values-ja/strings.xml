@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">アプリを開く</string>
     <string name="columbus_setting_action_overview_title">最近使用したアプリを表示</string>
     <string name="columbus_setting_action_play_pause_title">メディアを再生または一時停止</string>
-    <string name="columbus_setting_action_screenshot_title">スクリーンショットを撮る</string>
     <string name="columbus_setting_actions_title">スマートフォンの背面を 2 回タップして実行するアクション</string>
     <string name="columbus_setting_additional_settings_title">クイックタップの強さ</string>
     <string name="columbus_setting_app_selection_help_text">スマートフォンの背面を 2 回タップしたときに開くアプリを選択してください。アプリをアンインストールした場合は、別のアプリを選択するまでクイックタップは OFF になります。</string>

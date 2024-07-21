@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Адкрыць праграму</string>
     <string name="columbus_setting_action_overview_title">Паказаць нядаўнія праграмы</string>
     <string name="columbus_setting_action_play_pause_title">Прайграць або прыпыніць прайграванне медыязмесціва</string>
-    <string name="columbus_setting_action_screenshot_title">Зрабіць здымак экрана</string>
     <string name="columbus_setting_actions_title">Двойчы націснуць на заднюю частку тэлефона, каб</string>
     <string name="columbus_setting_additional_settings_title">Сіла націску пры Хуткім дотыку</string>
     <string name="columbus_setting_app_selection_help_text">Выберыце праграму, якая павінна адкрыцца падчас двайнога дотыку да задняй панэлі тэлефона. Калі вы выдаліце праграму, Хуткі дотык не будзе працаваць, пакуль вы не выбераце іншую праграму.</string>

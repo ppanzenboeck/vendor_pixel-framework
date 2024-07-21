@@ -169,7 +169,7 @@ Clear Calling works on Wi‑Fi calling and most networks, not available for 3G n
     <string name="columbus_setting_action_overview_value">overview</string>
     <string name="columbus_setting_action_play_pause_title">Play or pause media</string>
     <string name="columbus_setting_action_play_pause_value">media</string>
-    <string name="columbus_setting_action_screenshot_title">Take screenshot</string>
+    <string name="columbus_setting_action_screenshot_title">Turn screen off</string>
     <string name="columbus_setting_action_screenshot_value">screenshot</string>
     <string name="columbus_setting_actions_title">Tap back of phone twice to</string>
     <string name="columbus_setting_additional_settings_title">Quick Tap strength</string>

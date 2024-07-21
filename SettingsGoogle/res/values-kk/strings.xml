@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Қолданбаны ашу</string>
     <string name="columbus_setting_action_overview_title">Соңғы қолданбаларды көру</string>
     <string name="columbus_setting_action_play_pause_title">Медиафайлды ойнату немесе кідірту</string>
-    <string name="columbus_setting_action_screenshot_title">Скриншот жасау</string>
     <string name="columbus_setting_actions_title">Телефонның артқы жағын екі рет түрткенде орындалатын әрекет:</string>
     <string name="columbus_setting_additional_settings_title">Жылдам түрту күші</string>
     <string name="columbus_setting_app_selection_help_text">Телефоныңыздың артқы жағын екі рет түрту кезінде ашылатын қолданбаны таңдаңыз. Егер қолданбаны жойсаңыз, жылдам түрту қимылы басқа қолданбаны таңдағанға дейін өшіп тұрады.</string>

@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">অ্যাপ খুলুন</string>
     <string name="columbus_setting_action_overview_title">সাম্প্রতিক অ্যাপ দেখুন</string>
     <string name="columbus_setting_action_play_pause_title">মিডিয়া প্লে বা পজ করুন</string>
-    <string name="columbus_setting_action_screenshot_title">স্ক্রিনশট নিন</string>
     <string name="columbus_setting_actions_title">এর জন্য ফোনের পিছনে দুইবার ট্যাপ করুন</string>
     <string name="columbus_setting_additional_settings_title">"'কুইক ট্যাপ' জেশচারের জন্য উপযুক্ত ট্যাপ স্ট্রেন্থ"</string>
     <string name="columbus_setting_app_selection_help_text">"আপনার ফোনের পিছনে দুইবার ট্যাপ করলে যে অ্যাপটি খুলবে সেটি বেছে নিন। আপনি যদি অ্যাপ আনইনস্টল করেন, তাহলে অন্য অ্যাপ বেছে না নেওয়া পর্যন্ত 'কুইক ট্যাপ' ফিচার বন্ধ করা থাকবে।"</string>

@@ -147,7 +147,6 @@ Appels clairs fonctionne sur les appels Wi-Fi et la plupart des réseaux, mais n
     <string name="columbus_setting_action_open_app_title">"Ouvrir l'application"</string>
     <string name="columbus_setting_action_overview_title">Voir les applications récentes</string>
     <string name="columbus_setting_action_play_pause_title">Faire jouer ou mettre en pause le contenu multimédia</string>
-    <string name="columbus_setting_action_screenshot_title">"Prendre une capture d'écran"</string>
     <string name="columbus_setting_actions_title">Touchez deux fois le dos du téléphone pour</string>
     <string name="columbus_setting_additional_settings_title">Sensibilité du double toucher</string>
     <string name="columbus_setting_app_selection_help_text">"Sélectionnez une application à ouvrir quand vous touchez deux fois le dos de votre téléphone. Si vous désinstallez l'application, le double toucher sera désactivé tant que vous ne sélectionnerez pas une autre application."</string>

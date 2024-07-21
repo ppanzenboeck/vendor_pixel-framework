@@ -147,7 +147,6 @@ Jasen zvok klica deluje pri klicanju prek Wi-Fi-ja in v večini omrežij, ni pa 
     <string name="columbus_setting_action_open_app_title">Odpiranje aplikacije</string>
     <string name="columbus_setting_action_overview_title">Ogled nedavnih aplikacij</string>
     <string name="columbus_setting_action_play_pause_title">Predvajanje ali začasna zaustavitev predstavnosti</string>
-    <string name="columbus_setting_action_screenshot_title">Ustvarjanje posnetka zaslona</string>
     <string name="columbus_setting_actions_title">Dvakrat se dotaknite hrbtne strani telefona za naslednje dejanje:</string>
     <string name="columbus_setting_additional_settings_title">Moč hitrega dotika</string>
     <string name="columbus_setting_app_selection_help_text">Izberite aplikacijo, ki naj se odpre, ko se dvakrat dotaknete hrbtne strani telefona. Če aplikacijo odmestite, se hitri dotik izklopi, dokler ne izberete druge aplikacije.</string>

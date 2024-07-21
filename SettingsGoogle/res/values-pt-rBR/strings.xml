@@ -147,7 +147,6 @@ Esse recurso funciona em ligações pelo Wi-Fi e na maioria das redes, exceto re
     <string name="columbus_setting_action_open_app_title">Abrir app</string>
     <string name="columbus_setting_action_overview_title">Ver apps recentes</string>
     <string name="columbus_setting_action_play_pause_title">Abrir ou pausar mídia</string>
-    <string name="columbus_setting_action_screenshot_title">Fazer uma captura de tela</string>
     <string name="columbus_setting_actions_title">Toque duas vezes na parte de trás do smartphone para</string>
     <string name="columbus_setting_additional_settings_title">Intensidade do Toque rápido</string>
     <string name="columbus_setting_app_selection_help_text">Selecione um app para abrir ao tocar duas vezes na parte de trás do smartphone. Se você desinstalar o app, o Toque rápido será desativado até que outro app seja selecionado.</string>
