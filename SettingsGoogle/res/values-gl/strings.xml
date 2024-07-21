@@ -147,7 +147,6 @@ Chamadas nítidas é compatible coa función Chamadas por wifi e coa maioría da
     <string name="columbus_setting_action_open_app_title">Abrir aplicación</string>
     <string name="columbus_setting_action_overview_title">Ver aplicacións recentes</string>
     <string name="columbus_setting_action_play_pause_title">Reproducir ou pór en pausa contido multimedia</string>
-    <string name="columbus_setting_action_screenshot_title">Facer captura de pantalla</string>
     <string name="columbus_setting_actions_title">Tocar a parte traseira do teléfono dúas veces para</string>
     <string name="columbus_setting_additional_settings_title">Forza coa que debes realizar o xesto Toque rápido</string>
     <string name="columbus_setting_app_selection_help_text">Selecciona a aplicación que queres que se abra cando toques a parte traseira do teléfono dúas veces. Se desinstalas a aplicación, o xesto Toque rápido desactivarase ata que selecciones outra.</string>

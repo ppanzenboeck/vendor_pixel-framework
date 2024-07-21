@@ -147,7 +147,6 @@ Selkeä-ääniset puhelut toimii Wi-Fi-puheluiden ja useimpien mobiiliverkkojen 
     <string name="columbus_setting_action_open_app_title">Avaa sovellus</string>
     <string name="columbus_setting_action_overview_title">nähdä viimeksi käytetyt sovellukset</string>
     <string name="columbus_setting_action_play_pause_title">toistaa mediaa tai keskeyttää sen</string>
-    <string name="columbus_setting_action_screenshot_title">ottaa kuvakaappauksen</string>
     <string name="columbus_setting_actions_title">Napauta puhelimen takaosaa kahdesti, jos haluat</string>
     <string name="columbus_setting_additional_settings_title">Pikanäpäytyksen voimakkuus</string>
     <string name="columbus_setting_app_selection_help_text">Valitse, mikä sovellus avataan, kun napautat puhelimen takaosaa kahdesti. Jos poistat sovelluksen, pikanäpäytys ei ole päällä ennen kuin valitset toisen sovelluksen.</string>

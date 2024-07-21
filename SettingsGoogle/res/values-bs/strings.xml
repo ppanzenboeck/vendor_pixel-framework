@@ -147,7 +147,6 @@ Razgovijetni pozivi funkcioniraju u Pozivanju putem WiFi-ja i na većini mreža,
     <string name="columbus_setting_action_open_app_title">Otvorite aplikaciju</string>
     <string name="columbus_setting_action_overview_title">Vidite nedavne aplikacije</string>
     <string name="columbus_setting_action_play_pause_title">Reproducirate ili pauzirate medijske fajlove</string>
-    <string name="columbus_setting_action_screenshot_title">Snimite ekran</string>
     <string name="columbus_setting_actions_title">Dodirnite dvaput poleđinu telefona da</string>
     <string name="columbus_setting_additional_settings_title">Jačina brzog dodira</string>
     <string name="columbus_setting_app_selection_help_text">Odaberite aplikaciju koju želite otvoriti kada dvaput dodirnete poleđinu telefona. Ako deinstalirate aplikaciju, brzi dodir se isključuje dok ne odaberete drugu aplikaciju.</string>

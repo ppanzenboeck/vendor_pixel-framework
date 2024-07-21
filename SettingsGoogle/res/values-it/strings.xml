@@ -147,7 +147,6 @@ Questa funzionalità è disponibile per le chiamate Wi-Fi e sulla maggior parte 
     <string name="columbus_setting_action_open_app_title">Apri app</string>
     <string name="columbus_setting_action_overview_title">Visualizza le app recenti</string>
     <string name="columbus_setting_action_play_pause_title">Riproduci o metti in pausa contenuti multimediali</string>
-    <string name="columbus_setting_action_screenshot_title">Acquisisci screenshot</string>
     <string name="columbus_setting_actions_title">Toccando due volte la parte posteriore del telefono</string>
     <string name="columbus_setting_additional_settings_title">Pressione Tocco rapido</string>
     <string name="columbus_setting_app_selection_help_text">"Seleziona un'app da aprire quando tocchi due volte la parte posteriore del telefono. Se disinstalli l'app, Tocco rapido si disattiva finché non selezioni un'altra app."</string>

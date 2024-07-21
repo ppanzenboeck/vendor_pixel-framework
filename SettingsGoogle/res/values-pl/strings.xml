@@ -147,7 +147,6 @@ Połączenia z czystym dźwiękiem działają w ramach połączeń przez Wi-Fi
     <string name="columbus_setting_action_open_app_title">Otwórz aplikację</string>
     <string name="columbus_setting_action_overview_title">Wyświetl ostatnie aplikacje</string>
     <string name="columbus_setting_action_play_pause_title">Odtwórz lub wstrzymaj multimedia</string>
-    <string name="columbus_setting_action_screenshot_title">Zapisz zrzut ekranu</string>
     <string name="columbus_setting_actions_title">Po dwukrotnym dotknięciu tylnej części telefonu</string>
     <string name="columbus_setting_additional_settings_title">Siła dwukrotnego dotknięcia</string>
     <string name="columbus_setting_app_selection_help_text">Wybierz aplikację, która ma się otwierać, gdy 2 razy dotkniesz tylnej części telefonu. Jeśli odinstalujesz tę aplikację, dwukrotne dotknięcie będzie wyłączone do czasu, aż wybierzesz inną.</string>

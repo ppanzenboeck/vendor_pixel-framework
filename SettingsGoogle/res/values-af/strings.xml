@@ -147,7 +147,6 @@ Belhelderheid werk vir wi-fi-oproepe en op die meeste netwerke, maar is nie vir 
     <string name="columbus_setting_action_open_app_title">Maak program oop</string>
     <string name="columbus_setting_action_overview_title">Sien onlangse programme</string>
     <string name="columbus_setting_action_play_pause_title">Speel of onderbreek media</string>
-    <string name="columbus_setting_action_screenshot_title">Neem skermkiekie</string>
     <string name="columbus_setting_actions_title">Tik twee keer op agterkant van foon en</string>
     <string name="columbus_setting_additional_settings_title">Dubbeltik-hardheid</string>
     <string name="columbus_setting_app_selection_help_text">"Kies 'n program om oop te maak wanneer jy twee keer op die agterkant van jou foon tik. As jy die program deïnstalleer, skakel Dubbeltik af totdat jy 'n ander program kies."</string>

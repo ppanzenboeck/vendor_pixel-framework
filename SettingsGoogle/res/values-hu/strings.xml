@@ -147,7 +147,6 @@ A tiszta hívás használható Wi-Fi-hívással és a legtöbb hálózaton, kiv�
     <string name="columbus_setting_action_open_app_title">Alkalmazás megnyitása</string>
     <string name="columbus_setting_action_overview_title">Legutóbbi alkalmazások megtekintése</string>
     <string name="columbus_setting_action_play_pause_title">Médiatartalom lejátszása/szüneteltetése</string>
-    <string name="columbus_setting_action_screenshot_title">Képernyőkép készítése</string>
     <string name="columbus_setting_actions_title">Koppintson kétszer a telefon hátoldalán a következő művelethez:</string>
     <string name="columbus_setting_additional_settings_title">Gyors koppintás erőssége</string>
     <string name="columbus_setting_app_selection_help_text">Válassza ki, hogy melyik alkalmazás nyíljon meg, amikor kétszer a telefonja hátoldalára koppint. Ha eltávolítja az alkalmazást, a Gyors koppintás kikapcsolódik, amíg ki nem választ egy másik alkalmazást.</string>

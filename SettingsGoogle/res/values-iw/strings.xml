@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">פתיחת האפליקציה</string>
     <string name="columbus_setting_action_overview_title">הצגת אפליקציות שהיו בשימוש לאחרונה</string>
     <string name="columbus_setting_action_play_pause_title">הפעלה או השהיה של מדיה</string>
-    <string name="columbus_setting_action_screenshot_title">צילום המסך</string>
     <string name="columbus_setting_actions_title">יש להקיש פעמיים על גב הטלפון לצורך</string>
     <string name="columbus_setting_additional_settings_title">עוצמת ההקשה המהירה</string>
     <string name="columbus_setting_app_selection_help_text">צריך לבחור אפליקציה שתיפתח כמקישים פעמיים על גב הטלפון. אם מסירים את האפליקציה שנבחרה, ההקשה המהירה מושבתת עד שבוחרים אפליקציה אחרת.</string>

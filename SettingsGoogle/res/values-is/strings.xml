@@ -147,7 +147,6 @@ Clear Calling virkar í WiFi-símtölum og á flestum netkerfum en er ekki í bo
     <string name="columbus_setting_action_open_app_title">Opna forrit</string>
     <string name="columbus_setting_action_overview_title">Sjá nýleg forrit</string>
     <string name="columbus_setting_action_play_pause_title">Spila eða gera hlé á efni</string>
-    <string name="columbus_setting_action_screenshot_title">Taka skjámynd</string>
     <string name="columbus_setting_actions_title">Ýttu tvisvar á bakhlið símans til að</string>
     <string name="columbus_setting_additional_settings_title">Næmi pikks</string>
     <string name="columbus_setting_app_selection_help_text">Veldu forrit til að opna þegar þú ýtir tvisvar á bakhlið símans. Ef þú fjarlægir forritið slokknar á pikki þar til þú velur annað forrit.</string>

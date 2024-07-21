@@ -147,7 +147,6 @@ Keď prístup zrušíte, aplikácia bude musieť žiadať o povolenie zhromažd
     <string name="columbus_setting_action_open_app_title">Otvoriť aplikáciu</string>
     <string name="columbus_setting_action_overview_title">Zobraziť nedávne aplikácie</string>
     <string name="columbus_setting_action_play_pause_title">Prehrať alebo pozastaviť médiá</string>
-    <string name="columbus_setting_action_screenshot_title">Vytvoriť snímku obrazovky</string>
     <string name="columbus_setting_actions_title">Dvojitým klepnutím na zadnú stranu telefónu môžete</string>
     <string name="columbus_setting_additional_settings_title">Sila rýchleho poklepania</string>
     <string name="columbus_setting_app_selection_help_text">Vyberte, ktorá aplikácia sa má otvoriť, keď dvakrát klepnete na zadnú stranu telefónu. Ak danú aplikáciu odinštalujete, rýchle poklepanie sa vypne. Keď vyberiete inú aplikáciu, znova sa zapne.</string>

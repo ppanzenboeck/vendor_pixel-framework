@@ -147,7 +147,6 @@ Tính năng này hoạt động với tính năng Gọi qua Wi-Fi và hầu hế
     <string name="columbus_setting_action_open_app_title">Mở ứng dụng</string>
     <string name="columbus_setting_action_overview_title">Xem các ứng dụng gần đây</string>
     <string name="columbus_setting_action_play_pause_title">Phát hoặc tạm dừng nhạc/video</string>
-    <string name="columbus_setting_action_screenshot_title">Chụp ảnh màn hình</string>
     <string name="columbus_setting_actions_title">Chạm vào mặt sau của điện thoại hai lần để</string>
     <string name="columbus_setting_additional_settings_title">Cường độ cho chế độ Chạm nhanh</string>
     <string name="columbus_setting_app_selection_help_text">Chọn một ứng dụng sẽ mở khi bạn chạm vào mặt sau của điện thoại hai lần. Nếu bạn gỡ cài đặt ứng dụng đó, chế độ Chạm nhanh sẽ tắt cho tới khi bạn chọn một ứng dụng khác.</string>

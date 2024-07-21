@@ -147,7 +147,6 @@ Aquesta funció s'utilitza en trucades per Wi‑Fi i la majoria de xarxes, però
     <string name="columbus_setting_action_open_app_title">"Obre l'aplicació"</string>
     <string name="columbus_setting_action_overview_title">Mostra les aplicacions recents</string>
     <string name="columbus_setting_action_play_pause_title">Reprodueix o posa en pausa el contingut multimèdia</string>
-    <string name="columbus_setting_action_screenshot_title">Fes una captura de pantalla</string>
     <string name="columbus_setting_actions_title">Si toques dues vegades la part posterior del telèfon</string>
     <string name="columbus_setting_additional_settings_title">Força del gest Toc ràpid</string>
     <string name="columbus_setting_app_selection_help_text">"Selecciona quina aplicació vols obrir quan toques la part posterior del telèfon dues vegades. Si desinstal·les l'aplicació, Toc ràpid es desactivarà fins que seleccionis una altra aplicació."</string>

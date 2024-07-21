@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">فتح التطبيق</string>
     <string name="columbus_setting_action_overview_title">عرض التطبيقات التي تم استخدامها مؤخرًا</string>
     <string name="columbus_setting_action_play_pause_title">تشغيل الوسائط أو إيقافها مؤقتًا</string>
-    <string name="columbus_setting_action_screenshot_title">أخذ لقطة شاشة</string>
     <string name="columbus_setting_actions_title">انقر على الجهة الخلفية للهاتف مرتين من أجل</string>
     <string name="columbus_setting_additional_settings_title">قوة \"النقرة السريعة\"</string>
     <string name="columbus_setting_app_selection_help_text">اختَر تطبيقًا لفتحه عندما تنقر على الجهة الخلفية للهاتف مرتين. إذا ألغيت تثبيت التطبيق، سيتم إيقاف ميزة \"النقرة السريعة\" حتى تختار تطبيقًا آخر.</string>

@@ -147,7 +147,6 @@ Təmiz səsli zəng Wi-Fi zəngi və əksər şəbəkələrdə işləyir. 3G ş�
     <string name="columbus_setting_action_open_app_title">Tətbiqi açın</string>
     <string name="columbus_setting_action_overview_title">Son tətbiqlərə baxın</string>
     <string name="columbus_setting_action_play_pause_title">Medianı oxudun və ya ona pauza verin</string>
-    <string name="columbus_setting_action_screenshot_title">Skrinşot çəkin</string>
     <string name="columbus_setting_actions_title">Aşağıdakı əməliyyat üçün telefonun arxasına iki dəfə toxunun</string>
     <string name="columbus_setting_additional_settings_title">Sürətli Toxunuş gücü</string>
     <string name="columbus_setting_app_selection_help_text">Telefonunuzun arxasına iki dəfə toxunaraq açmaq üçün tətbiq seçin. Tətbiqin quraşdırılmışını ləğv etsəniz, fərqli bir tətbiq seçənə qədər Sürətli Toxunuş deaktiv olur.</string>

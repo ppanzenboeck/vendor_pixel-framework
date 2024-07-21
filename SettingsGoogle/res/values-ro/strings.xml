@@ -147,7 +147,6 @@ Apelarea cu sunet clar este disponibilă în Apelarea prin Wi‑Fi și în major
     <string name="columbus_setting_action_open_app_title">Deschide aplicația</string>
     <string name="columbus_setting_action_overview_title">Vezi aplicațiile recente</string>
     <string name="columbus_setting_action_play_pause_title">Redă sau întrerupe conținutul media</string>
-    <string name="columbus_setting_action_screenshot_title">Fă o captură de ecran</string>
     <string name="columbus_setting_actions_title">Atinge de două ori partea din spate a dispozitivului</string>
     <string name="columbus_setting_additional_settings_title">Intensitatea Atingerii rapide</string>
     <string name="columbus_setting_app_selection_help_text">Selectează o aplicație de deschis când atingi de două ori partea din spate a telefonului. Dacă dezinstalezi aplicația, Atingerea rapidă se dezactivează până când selectezi altă aplicație.</string>

@@ -147,7 +147,6 @@ Klart samtalsljud fungerar med wifi-samtal och nästan alla nätverk, men det ä
     <string name="columbus_setting_action_open_app_title">Öppna appen</string>
     <string name="columbus_setting_action_overview_title">Visa de senast använda apparna</string>
     <string name="columbus_setting_action_play_pause_title">Spela upp eller pausa media</string>
-    <string name="columbus_setting_action_screenshot_title">Ta skärmbild</string>
     <string name="columbus_setting_actions_title">Tryck två gånger på baksidan av telefonen</string>
     <string name="columbus_setting_additional_settings_title">Styrka för Snabbtryck</string>
     <string name="columbus_setting_app_selection_help_text">Välj en app som ska öppnas när du trycker två gånger på baksidan av telefonen. Om du avinstallerar appen inaktiveras Snabbtryck tills du väljer en annan app.</string>

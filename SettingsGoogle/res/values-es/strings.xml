@@ -147,7 +147,6 @@ Llamadas nítidas funciona en llamadas por Wi-Fi y la mayoría de las redes, per
     <string name="columbus_setting_action_open_app_title">Abrir aplicación</string>
     <string name="columbus_setting_action_overview_title">Ver aplicaciones recientes</string>
     <string name="columbus_setting_action_play_pause_title">Reproducir o pausar contenido</string>
-    <string name="columbus_setting_action_screenshot_title">Hacer captura de pantalla</string>
     <string name="columbus_setting_actions_title">Tocar dos veces la parte trasera del teléfono para</string>
     <string name="columbus_setting_additional_settings_title">Fuerza del gesto Toque rápido</string>
     <string name="columbus_setting_app_selection_help_text">Selecciona la aplicación que quieres abrir al tocar dos veces la parte trasera del teléfono. Si en algún momento desinstalas esa aplicación, Toque rápido se desactivará hasta que elijas otra.</string>

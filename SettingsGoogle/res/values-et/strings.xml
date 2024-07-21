@@ -147,7 +147,6 @@ Selge heliga helistamine toimib WiFi-kõnede ja enamiku võrkude puhul, kuid pol
     <string name="columbus_setting_action_open_app_title">Ava rakendus</string>
     <string name="columbus_setting_action_overview_title">Hiljutiste rakenduste nägemine</string>
     <string name="columbus_setting_action_play_pause_title">Meedia esitamine või peatamine</string>
-    <string name="columbus_setting_action_screenshot_title">Ekraanipildi jäädvustamine</string>
     <string name="columbus_setting_actions_title">Telefoni tagakülje puudutamisel kaks korda toimub järgmine</string>
     <string name="columbus_setting_additional_settings_title">Kiirpuudutuse tugevus</string>
     <string name="columbus_setting_app_selection_help_text">Valige rakendus, mis avada, kui puudutate telefoni tagakülge kaks korda. Kui rakenduse desinstallite, lülitatakse kiirpuudutus välja, kuni valite teise rakenduse.</string>

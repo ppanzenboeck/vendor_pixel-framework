@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Отвори апликацију</string>
     <string name="columbus_setting_action_overview_title">Видели недавне апликације</string>
     <string name="columbus_setting_action_play_pause_title">Пуштали или паузирали медије</string>
-    <string name="columbus_setting_action_screenshot_title">Направили снимак екрана</string>
     <string name="columbus_setting_actions_title">Двапут додирните полеђину телефона да бисте</string>
     <string name="columbus_setting_additional_settings_title">Јачина брзог додира</string>
     <string name="columbus_setting_app_selection_help_text">Изаберите апликацију коју желите да отворите када двапут додирнете полеђину телефона. Ако деинсталирате апликацију, брзи додир се искључује док не изаберете другу апликацију.</string>

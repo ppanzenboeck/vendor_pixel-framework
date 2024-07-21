@@ -147,7 +147,6 @@ Net Görüşme Sesi kablosuz çağrıda ve çoğu ağda çalışır, 3G ağları
     <string name="columbus_setting_action_open_app_title">Uygulamayı aç</string>
     <string name="columbus_setting_action_overview_title">Son uygulamaları göster</string>
     <string name="columbus_setting_action_play_pause_title">Medyayı oynat veya duraklat</string>
-    <string name="columbus_setting_action_screenshot_title">Ekran görüntüsü al</string>
     <string name="columbus_setting_actions_title">Telefonun arkasına iki kez dokunduğumda</string>
     <string name="columbus_setting_additional_settings_title">Hızlı Dokun gücü</string>
     <string name="columbus_setting_app_selection_help_text">Telefonunuzun arkasına iki kez dokunduğunuzda açılacak bir uygulama seçin. Uygulamayı kaldırırsanız farklı bir uygulama seçene kadar Hızlı Dokun özelliği devre dışı kalır.</string>

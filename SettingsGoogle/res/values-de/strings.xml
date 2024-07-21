@@ -147,7 +147,7 @@ Die Funktion „Glasklare Anrufe“ ist bei der WLAN-Telefonie und in den meiste
     <string name="columbus_setting_action_open_app_title">App öffnen</string>
     <string name="columbus_setting_action_overview_title">Kürzlich geöffnete Apps ansehen</string>
     <string name="columbus_setting_action_play_pause_title">Medien wiedergeben oder pausieren</string>
-    <string name="columbus_setting_action_screenshot_title">Screenshot erstellen</string>
+    <string name="columbus_setting_action_screenshot_title">Bildschirm ausschalten</string>
     <string name="columbus_setting_actions_title">Aktion bei Doppeltippen auf der Rückseite des Geräts</string>
     <string name="columbus_setting_additional_settings_title">Empfindlichkeit für Schnelltippen</string>
     <string name="columbus_setting_app_selection_help_text">Wähle aus, welche App geöffnet werden soll, wenn du schnell doppelt auf die Rückseite deines Smartphones tippst. Wenn du die App deinstallierst, wird „Schnelltippen“ deaktiviert, bis du eine andere App auswählst.</string>

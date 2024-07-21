@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">باز کردن برنامه</string>
     <string name="columbus_setting_action_overview_title">مشاهده برنامه‌های اخیر</string>
     <string name="columbus_setting_action_play_pause_title">پخش یا توقف موقت رسانه</string>
-    <string name="columbus_setting_action_screenshot_title">گرفتن نماگرفت</string>
     <string name="columbus_setting_actions_title">دوضربه زدن به پشت تلفن برای</string>
     <string name="columbus_setting_additional_settings_title">شدت «ضربه سریع»</string>
     <string name="columbus_setting_app_selection_help_text">برنامه‌ای را انتخاب کنید تا هنگامی که به پشت تلفن دوضربه می‌زنید باز شود. اگر برنامه را حذف نصب کنید، تا زمانی‌که برنامه دیگری را انتخاب نکنید، «ضربه سریع» خاموش می‌ماند.</string>
