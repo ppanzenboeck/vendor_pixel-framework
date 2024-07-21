@@ -147,7 +147,6 @@ A funcionalidade de chamadas nítidas está disponível nas Chamadas Wi-Fi e na 
     <string name="columbus_setting_action_open_app_title">Abrir app</string>
     <string name="columbus_setting_action_overview_title">Ver apps recentes</string>
     <string name="columbus_setting_action_play_pause_title">Abrir ou pausar conteúdo multimédia</string>
-    <string name="columbus_setting_action_screenshot_title">Fazer captura de ecrã</string>
     <string name="columbus_setting_actions_title">Toque duas vezes na parte posterior do telemóvel para</string>
     <string name="columbus_setting_additional_settings_title">Intensidade do Quick Tap</string>
     <string name="columbus_setting_app_selection_help_text">Selecione uma app para abrir quando tocar duas vezes na parte posterior do telemóvel. Se desinstalar a app, o Quick Tap fica desativado até selecionar uma app diferente.</string>

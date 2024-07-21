@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Апп нээх</string>
     <string name="columbus_setting_action_overview_title">Саяхны аппуудыг харах</string>
     <string name="columbus_setting_action_play_pause_title">Медиаг тоглуулах эсвэл түр зогсоох</string>
-    <string name="columbus_setting_action_screenshot_title">Дэлгэцийн агшныг дарах</string>
     <string name="columbus_setting_actions_title">Дараахыг хийхийн тулд утасныхаа ард товшино уу</string>
     <string name="columbus_setting_additional_settings_title">Шуурхай товшилтын хүч</string>
     <string name="columbus_setting_app_selection_help_text">Та утасныхаа ард хоёр товших үедээ нээх аппыг сонгоно уу. Тус аппыг устгасан тохиолдолд таныг өөр апп сонгох хүртэл Шуурхай товшилтыг унтраана.</string>

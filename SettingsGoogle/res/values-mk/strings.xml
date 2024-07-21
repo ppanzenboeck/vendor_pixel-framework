@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Отвори ја апликацијата</string>
     <string name="columbus_setting_action_overview_title">Приказ на неодамнешните апликации</string>
     <string name="columbus_setting_action_play_pause_title">Пуштање или паузирање аудиовизуелни содржини</string>
-    <string name="columbus_setting_action_screenshot_title">Зачувување слика од екранот</string>
     <string name="columbus_setting_actions_title">Допрете двапати на задната страна на телефонот за</string>
     <string name="columbus_setting_additional_settings_title">Сила за „Брз допир“</string>
     <string name="columbus_setting_app_selection_help_text">Изберете ја апликацијата што сакате да се отвори кога ќе ја допрете задната страна на телефонот двапати. Ако ја деинсталирате апликацијата, „Брз допир“ ќе се исклучи додека не изберете друга апликација.</string>

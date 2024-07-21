@@ -3,7 +3,8 @@ package com.google.android.systemui.columbus.actions;
 import android.content.Context;
 import android.os.Handler;
 import com.android.internal.logging.UiEventLogger;
-import com.android.internal.util.ScreenshotHelper;
+import android.os.PowerManager;
+import android.os.SystemClock;
 import com.google.android.systemui.columbus.ColumbusEvent;
 import com.google.android.systemui.columbus.sensors.GestureSensor;
 import java.util.function.Consumer;
@@ -12,7 +13,7 @@ import kotlin.jvm.internal.DefaultConstructorMarker;
 public final class TakeScreenshot extends UserAction {
     public static final Companion Companion = new Companion(null);
     private final Handler handler;
-    private final ScreenshotHelper screenshotHelper;
+    private final PowerManager powerManager;
     private final String tag;
     private final UiEventLogger uiEventLogger;
 
@@ -29,7 +30,7 @@ public final class TakeScreenshot extends UserAction {
         this.handler = handler;
         this.uiEventLogger = uiEventLogger;
         this.tag = "Columbus/TakeScreenshot";
-        this.screenshotHelper = new ScreenshotHelper(context);
+        this.powerManager = (PowerManager)context.getSystemService(Context.POWER_SERVICE);
         setAvailable(true);
     }
 
@@ -45,7 +46,8 @@ public final class TakeScreenshot extends UserAction {
 
     @Override
     public void onTrigger(GestureSensor.DetectionProperties detectionProperties) {
-        screenshotHelper.takeScreenshot(6, handler, null);
-        uiEventLogger.log(ColumbusEvent.COLUMBUS_INVOKED_SCREENSHOT);
+        if(powerManager != null) {
+            powerManager.goToSleep(SystemClock.uptimeMillis());
+        }
     }
 }

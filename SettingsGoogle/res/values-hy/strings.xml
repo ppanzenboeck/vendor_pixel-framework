@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Բացել հավելվածը</string>
     <string name="columbus_setting_action_overview_title">Տեսնել վերջին հավելվածները</string>
     <string name="columbus_setting_action_play_pause_title">Նվագարկել/դադարեցնել մեդիաֆայլը</string>
-    <string name="columbus_setting_action_screenshot_title">Սքրինշոթ անել</string>
     <string name="columbus_setting_actions_title">Հեռախոսի հետևի կողմին կրկնակի հպեք հետևյալ գործողությունների համար՝</string>
     <string name="columbus_setting_additional_settings_title">Արագ հպման զգայունություն</string>
     <string name="columbus_setting_app_selection_help_text">Ընտրեք հավելվածը, որը պետք է բացվի հեռախոսի հետևի կողմին կրկնակի հպելու դեպքում։ Եթե հեռացնեք այդ հավելվածը, արագ հպման գործառույթը կանջատվի, մինչև մեկ այլ հավելված ընտրեք։</string>

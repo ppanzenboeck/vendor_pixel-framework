@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">აპის გახსნა</string>
     <string name="columbus_setting_action_overview_title">ბოლოს გამოყენებული აპების ნახვა</string>
     <string name="columbus_setting_action_play_pause_title">მედიის დაკვრა ან დაპაუზება</string>
-    <string name="columbus_setting_action_screenshot_title">ეკრანის ანაბეჭდის გადაღება</string>
     <string name="columbus_setting_actions_title">ორმაგად შეეხეთ ტელეფონის უკანა მხარეს, რომ შეძლოთ</string>
     <string name="columbus_setting_additional_settings_title">„სწრაფი შეხების“ სიძლიერე</string>
     <string name="columbus_setting_app_selection_help_text">აირჩიეთ აპი, რომელიც გაიხსნება თქვენი ტელეფონის უკანა მხარეზე ორმაგი შეხებით. აპის დეინსტალაციის შემთხვევაში, „სწრაფი შეხება“ გამოირთვება სხვა აპის არჩევამდე.</string>
