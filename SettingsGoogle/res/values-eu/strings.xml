@@ -147,7 +147,6 @@ Dei garbiak eginbideak wifi-deiekin eta sare gehienekin funtzionatzen du, baina 
     <string name="columbus_setting_action_open_app_title">Ireki aplikazioa</string>
     <string name="columbus_setting_action_overview_title">Ikusi azkenaldiko aplikazioak</string>
     <string name="columbus_setting_action_play_pause_title">Erreproduzitu edo pausatu multimedia-edukia</string>
-    <string name="columbus_setting_action_screenshot_title">Atera pantaila-argazki bat</string>
     <string name="columbus_setting_actions_title">Sakatu birritan telefonoaren atzealdea hau egiteko:</string>
     <string name="columbus_setting_additional_settings_title">Sakatze bizkorraren indarra</string>
     <string name="columbus_setting_app_selection_help_text">Hautatu zer aplikazio irekiko den telefonoaren atzealdea birritan sakatzen duzunean. Aplikazioa desinstalatzen baduzu, beste aplikazio bat hautatu arte desaktibatu egingo da sakatze bizkorra.</string>

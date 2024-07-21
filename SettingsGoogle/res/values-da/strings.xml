@@ -147,7 +147,6 @@ Klar opkaldslyd fungerer via Wi-Fi-opkald og de fleste netværk, men ikke på 3G
     <string name="columbus_setting_action_open_app_title">Åbn appen</string>
     <string name="columbus_setting_action_overview_title">Se nyligt brugte apps</string>
     <string name="columbus_setting_action_play_pause_title">Afspil eller sæt medie på pause</string>
-    <string name="columbus_setting_action_screenshot_title">Tag screenshot</string>
     <string name="columbus_setting_actions_title">Tryk to gange på bagsiden af telefonen</string>
     <string name="columbus_setting_additional_settings_title">Styrke for Kviktryk</string>
     <string name="columbus_setting_app_selection_help_text">Vælg en app, der skal åbnes, når du trykker to gange på bagsiden af din telefon. Hvis du afinstallerer appen, deaktiveres Kviktryk, indtil du vælger en anden app.</string>

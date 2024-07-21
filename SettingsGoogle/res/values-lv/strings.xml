@@ -147,7 +147,6 @@ Funkcija Skaidri zvani darbojas Wi-Fi zvanos un vairumā tīklu, taču nav piee
     <string name="columbus_setting_action_open_app_title">Atvērt lietotni</string>
     <string name="columbus_setting_action_overview_title">Skatīt nesen izmantotās lietotnes</string>
     <string name="columbus_setting_action_play_pause_title">Atskaņot multivides saturu / apturēt atskaņošanu</string>
-    <string name="columbus_setting_action_screenshot_title">Izveidot ekrānuzņēmumu</string>
     <string name="columbus_setting_actions_title">Veicot dubultskārienu uz tālruņa aizmugures,…</string>
     <string name="columbus_setting_additional_settings_title">Ātrā pieskāriena stiprums</string>
     <string name="columbus_setting_app_selection_help_text">Atlasiet lietotni, kas jāatver, kad ātri veicat dubultskārienu uz tālruņa aizmugures. Ja atinstalēsiet lietotni, ātrais pieskāriens tiks izslēgts, līdz atlasīsiet citu lietotni.</string>

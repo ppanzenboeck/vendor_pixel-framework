@@ -147,7 +147,6 @@ Cette fonctionnalité est compatible avec les appels Wi-Fi et la plupart des ré
     <string name="columbus_setting_action_open_app_title">"Ouvrir l'application"</string>
     <string name="columbus_setting_action_overview_title">Voir les applis récentes</string>
     <string name="columbus_setting_action_play_pause_title">Lire ou mettre en pause les contenus multimédias</string>
-    <string name="columbus_setting_action_screenshot_title">"Prendre une capture d'écran"</string>
     <string name="columbus_setting_actions_title">Appuyer deux fois sur le dos du téléphone pour</string>
     <string name="columbus_setting_additional_settings_title">Sensibilité du douple appui</string>
     <string name="columbus_setting_app_selection_help_text">"Sélectionnez une appli à ouvrir lorsque vous appuyez deux fois sur le dos de votre téléphone. Si vous désinstallez l'appli, le double appui sera désactivé tant que vous ne choisirez pas une autre appli."</string>

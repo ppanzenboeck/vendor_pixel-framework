@@ -147,7 +147,6 @@ Helder gespreksgeluid werkt met bellen via wifi en de meeste netwerken, maar is 
     <string name="columbus_setting_action_open_app_title">App openen</string>
     <string name="columbus_setting_action_overview_title">Recente apps bekijken</string>
     <string name="columbus_setting_action_play_pause_title">Media afspelen of pauzeren</string>
-    <string name="columbus_setting_action_screenshot_title">Screenshot maken</string>
     <string name="columbus_setting_actions_title">Tik 2 keer op de achterkant van je telefoon voor</string>
     <string name="columbus_setting_additional_settings_title">Gevoeligheid voor Snel tikken</string>
     <string name="columbus_setting_app_selection_help_text">Selecteer een app die wordt geopend als je 2 keer op de achterkant van je telefoon tikt. Als je de app verwijdert, wordt Snel tikken uitgezet totdat je een andere app selecteert.</string>

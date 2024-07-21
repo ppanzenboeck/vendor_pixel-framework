@@ -147,7 +147,6 @@ Panggilan Jernih berfungsi pada panggilan Wi-Fi dan sebagian besar jaringan, tid
     <string name="columbus_setting_action_open_app_title">Buka aplikasi</string>
     <string name="columbus_setting_action_overview_title">Lihat aplikasi terkini</string>
     <string name="columbus_setting_action_play_pause_title">Putar atau jeda media</string>
-    <string name="columbus_setting_action_screenshot_title">Ambil screenshot</string>
     <string name="columbus_setting_actions_title">Ketuk bagian belakang ponsel dua kali untuk</string>
     <string name="columbus_setting_additional_settings_title">Kekuatan Ketuk Cepat</string>
     <string name="columbus_setting_app_selection_help_text">Pilih aplikasi yang akan dibuka saat Anda mengetuk dua kali bagian belakang ponsel. Meng-uninstal aplikasi akan menonaktifkan Ketuk Cepat hingga Anda memilih aplikasi lain.</string>

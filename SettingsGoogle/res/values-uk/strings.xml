@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Відкрити додаток</string>
     <string name="columbus_setting_action_overview_title">Переглянути нещодавні додатки</string>
     <string name="columbus_setting_action_play_pause_title">Відтворити або зупинити медіа</string>
-    <string name="columbus_setting_action_screenshot_title">Зробити знімок екрана</string>
     <string name="columbus_setting_actions_title">Дії в разі подвійного дотику до задньої панелі телефона</string>
     <string name="columbus_setting_additional_settings_title">Сила подвійного дотику</string>
     <string name="columbus_setting_app_selection_help_text">Виберіть додаток, який має відкриватися, коли ви двічі торкаєтеся задньої панелі телефона. Якщо ви видалите додаток, подвійний дотик не працюватиме, доки ви не виберете інший.</string>

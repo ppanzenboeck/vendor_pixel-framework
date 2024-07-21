@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Колдонмону ачуу</string>
     <string name="columbus_setting_action_overview_title">Акыркы колдонмолорду көрүү</string>
     <string name="columbus_setting_action_play_pause_title">Медиа файлды ойнотуу же тындыруу</string>
-    <string name="columbus_setting_action_screenshot_title">Скриншот тартуу</string>
     <string name="columbus_setting_actions_title">Телефонуңуздун аркасын эки жолу басып:</string>
     <string name="columbus_setting_additional_settings_title">Баскылоо күчү</string>
     <string name="columbus_setting_app_selection_help_text">Телефондун аркасын эки жолу басканда ачыла турган колдонмону тандаңыз. Колдонмону түзмөктөн чыгарып салсаңыз, башка колдонмо тандалмайынча тез баскылоо функциясы өчүп турат.</string>

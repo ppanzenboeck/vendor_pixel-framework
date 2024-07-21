@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">Открыть приложение</string>
     <string name="columbus_setting_action_overview_title">Посмотреть недавние приложения</string>
     <string name="columbus_setting_action_play_pause_title">Начать или приостановить воспроизведение</string>
-    <string name="columbus_setting_action_screenshot_title">Сделать скриншот</string>
     <string name="columbus_setting_actions_title">Дважды коснитесь задней панели телефона, чтобы</string>
     <string name="columbus_setting_additional_settings_title">Сила короткого касания</string>
     <string name="columbus_setting_app_selection_help_text">Выберите приложение, которое будет открываться при двойном касании задней панели телефона. Если вы удалите его, функция короткого касания будет отключена, пока вы не выберете другое приложение.</string>

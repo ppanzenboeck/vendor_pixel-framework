@@ -147,7 +147,6 @@ Klare samtaler fungerer med wifi-anrop og de fleste nettverk, men er ikke tilgje
     <string name="columbus_setting_action_open_app_title">Åpne appen</string>
     <string name="columbus_setting_action_overview_title">Se nylige apper</string>
     <string name="columbus_setting_action_play_pause_title">Spill av eller sett medier på pause</string>
-    <string name="columbus_setting_action_screenshot_title">Ta skjermdump</string>
     <string name="columbus_setting_actions_title">Trykk to ganger bak på telefonen for å gjøre dette</string>
     <string name="columbus_setting_additional_settings_title">Hurtigtrykkstyrke</string>
     <string name="columbus_setting_app_selection_help_text">Velg en app du vil åpne når du trykker to ganger på baksiden av telefonen. Hvis du avinstallerer appen, slås hurtigtrykk av til du velger en annen app.</string>

@@ -147,7 +147,6 @@
     <string name="columbus_setting_action_open_app_title">開啟應用程式</string>
     <string name="columbus_setting_action_overview_title">查看最近使用的應用程式</string>
     <string name="columbus_setting_action_play_pause_title">播放或暫停媒體</string>
-    <string name="columbus_setting_action_screenshot_title">擷取螢幕擷圖</string>
     <string name="columbus_setting_actions_title">輕按手機背面兩下時</string>
     <string name="columbus_setting_additional_settings_title">「快速輕觸」力度</string>
     <string name="columbus_setting_app_selection_help_text">選取輕觸手機背面兩下時要開啟的應用程式。如果你解除安裝該應用程式，「快速輕觸」便會隨之停用。當你選擇另一個應用程式後，「快速輕觸」才會再次啟用。</string>

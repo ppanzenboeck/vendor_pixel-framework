@@ -147,7 +147,6 @@ Funkcija „Aiškus skambutis“ veikia naudojant „Wi-Fi“ skambinimą ir dau
     <string name="columbus_setting_action_open_app_title">Atidaryti programą</string>
     <string name="columbus_setting_action_overview_title">Žr. naujausias programas</string>
     <string name="columbus_setting_action_play_pause_title">Medijos leidimas arba pristabdymas</string>
-    <string name="columbus_setting_action_screenshot_title">Ekrano kopijos kūrimas</string>
     <string name="columbus_setting_actions_title">Veiksmų atlikimas dukart palietus telefono nugarėlę</string>
     <string name="columbus_setting_additional_settings_title">„Quick Tap“ intensyvumas</string>
     <string name="columbus_setting_app_selection_help_text">Pasirinkite programą, kuri bus atidaryta dukart palietus telefono nugarėlę. Jei pašalinsite programą, „Quick Tap“ bus išjungta, kol pasirinksite kitą programą.</string>

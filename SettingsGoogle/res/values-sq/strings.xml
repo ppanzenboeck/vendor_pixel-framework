@@ -147,7 +147,6 @@ Revokimi i qasjes do t'i kërkojë aplikacionit që të kërkojë lejen tënde p
     <string name="columbus_setting_action_open_app_title">Hap aplikacionin</string>
     <string name="columbus_setting_action_overview_title">Shiko aplikacionet e fundit</string>
     <string name="columbus_setting_action_play_pause_title">Luaj ose vendos në pauzë median</string>
-    <string name="columbus_setting_action_screenshot_title">Nxirr një pamje të ekranit</string>
     <string name="columbus_setting_actions_title">Duke trokitur dy herë pjesën e pasme të telefonit:</string>
     <string name="columbus_setting_additional_settings_title">Forca e \"Trokitjes së shpejtë\"</string>
     <string name="columbus_setting_app_selection_help_text">Zgjidh një aplikacion për ta hapur kur troket dy herë në pjesën e pasme të telefonit tënd. Nëse e çinstalon aplikacionin, \"Trokitja e shpejtë\" çaktivizohet derisa të zgjedhësh një aplikacion tjetër.</string>
