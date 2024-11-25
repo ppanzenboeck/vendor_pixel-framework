@@ -16,7 +16,7 @@
 
 package com.google.android.systemui.assist;
 
-import static com.android.internal.util.derp.DeviceKeysConstants.*;
+import static org.derpfest.util.DeviceKeysConstants.*;
 
 import android.content.ContentResolver;
 import android.content.Context;
@@ -24,6 +24,8 @@ import android.os.UserHandle;
 import android.provider.Settings;
 
 import com.android.systemui.dagger.SysUISingleton;
+
+import org.derpfest.providers.DerpFestSettings;
 
 import javax.inject.Inject;
 
@@ -46,7 +48,7 @@ public class OpaEnabledSettings {
             mHomeLongPressAction = Action.NOTHING;
         }
         mHomeLongPressAction = Action.fromSettings(mContentResolver,
-                Settings.System.KEY_HOME_LONG_PRESS_ACTION,
+                DerpFestSettings.System.KEY_HOME_LONG_PRESS_ACTION,
                 mHomeLongPressAction);
     }
 
@@ -70,7 +72,7 @@ public class OpaEnabledSettings {
 
     public boolean isLongPressHomeEnabled() {
         mHomeLongPressAction = Action.fromSettings(mContentResolver,
-                Settings.System.KEY_HOME_LONG_PRESS_ACTION,
+                DerpFestSettings.System.KEY_HOME_LONG_PRESS_ACTION,
                 mHomeLongPressAction);
         return mHomeLongPressAction == Action.SEARCH;
     }

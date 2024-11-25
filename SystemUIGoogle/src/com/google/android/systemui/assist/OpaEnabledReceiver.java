@@ -32,6 +32,8 @@ import com.android.systemui.dagger.SysUISingleton;
 import com.android.systemui.dagger.qualifiers.Background;
 import com.android.systemui.dagger.qualifiers.Main;
 
+import org.derpfest.providers.DerpFestSettings;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Executor;
@@ -104,7 +106,7 @@ public class OpaEnabledReceiver {
 
     private void registerContentObserver() {
         mContentResolver.registerContentObserver(Settings.System.getUriFor(
-                Settings.System.KEY_HOME_LONG_PRESS_ACTION), false, mContentObserver,
+                DerpFestSettings.System.KEY_HOME_LONG_PRESS_ACTION), false, mContentObserver,
                 UserHandle.USER_ALL);
     }
 
