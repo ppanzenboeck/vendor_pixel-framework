@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="menu_key_communal" translatable="false">top_level_communal</string>
     <string name="aware_category_display" />
     <string name="aware_category_gesture" />
     <string name="aware_display_settings_title">Idle lock screen</string>
